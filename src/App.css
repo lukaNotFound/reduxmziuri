@@ -1,0 +1,26 @@
+.formgroup{
+  height: 70px;
+  width:100%; 
+}
+
+.Textfield, .Button, .MuiInputBase-root {
+  height:100% !important;
+}
+
+.Button{
+  margin-left: 30px !important;
+}
+
+.todo{
+  margin-top: 60px;
+  width: 100%;
+}
+.todo_item{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.IndeterminateCheckBoxIcon{
+  color: red;
+}
